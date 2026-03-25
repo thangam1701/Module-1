@@ -30,5 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/d7a11d54-a225-4101-95d6-349e1c3b8722)
 
 ## RESULT
+Thus, the Python program to find the minimum between three numbers using a conditional expression has been implemented and executed successfully.
