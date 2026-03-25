@@ -29,6 +29,6 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
-
+![image](https://github.com/user-attachments/assets/d151b986-1b18-4059-b012-12cc4a54dda1)
 ## RESULT
-
+Thus the Python program to print a string in multiple lines using triple quotes was successfully created and executed.
